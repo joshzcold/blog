@@ -3,16 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/joshua.jpg"
+style="border-radius: 50%; width: 200px;"
+>
+</p>
 
 
-[jekyll-organization]: https://github.com/jekyll
+Hey there 👋 my name is Joshua Cold and I am a devops engineer from Utah. 
+
+This blog is to meant as a knowledge store for me whenever I solve a problem that was really puzzling. 
+
+Hopefully through an online search these articles will help someone with the same problem.
+
+
+**github**: <https://github.com/joshzcold>
+
+**email**: <joshzcold@gmail.com>
+
+**linkedin**: <https://linkedin.com/in/joshua-cold-49ab76105>
+
